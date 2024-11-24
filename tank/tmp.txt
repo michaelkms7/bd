@@ -1,0 +1,4 @@
+https://habr.com/ru/companies/ruvds/articles/450312/
+
+psql \! chcp 1251
+
