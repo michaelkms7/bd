@@ -1,3 +1,0 @@
-#psycorpg2
-psycopg2-binary
-
