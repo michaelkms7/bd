@@ -1,0 +1,7 @@
+https://habr.com/ru/companies/ruvds/articles/450312/
+
+psql \! chcp 1251
+
+insert into tank (id_tank, tank_name) values ((select max(id_tank)+1 from tank), 'Тестовый танк 2');
+delete from tank where id_tank=7;
+
